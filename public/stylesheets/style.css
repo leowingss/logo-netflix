@@ -37,9 +37,8 @@ a{
   font-family:'Roboto', sans-serif;
   margin: 20px auto;
   color: #AAA;
-
-  
 }
+
 button:hover{
   background: #383838;
   cursor: pointer;
